@@ -1,3 +1,5 @@
+AVAILABLE PARKS
+
 * DisneyAPI.Epcot.[ GetWaitTimes() | GetSchedule() ]
 * DisneyAPI.MagicKingdom.[ GetWaitTimes() | GetSchedule() ]
 * DisneyAPI.HollywoodStudios.[ GetWaitTimes() | GetSchedule() ]
@@ -10,6 +12,406 @@
 * DisneyAPI.TokyoDisneySea.[ GetWaitTimes() | GetSchedule() ]
 * DisneyAPI.UniversalStudiosOrlando.[ GetWaitTimes() | GetSchedule() ]
 * DisneyAPI.UniversalIslandOfAdventure.[ GetWaitTimes() | GetSchedule() ]
+
+
+DISNEYLAND SCHEDULE DATA
+
+[
+  {
+    "date": "2016-01-07",
+    "openingTime": "08:00",
+    "closingTime": "09:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-07",
+    "openingTime": "09:00",
+    "closingTime": "23:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-08",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-09",
+    "openingTime": "07:00",
+    "closingTime": "08:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-09",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-10",
+    "openingTime": "09:00",
+    "closingTime": "23:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-11",
+    "openingTime": "10:00",
+    "closingTime": "21:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-12",
+    "openingTime": "09:00",
+    "closingTime": "10:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-12",
+    "openingTime": "10:00",
+    "closingTime": "21:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-13",
+    "openingTime": "10:00",
+    "closingTime": "21:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-14",
+    "openingTime": "09:00",
+    "closingTime": "10:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-14",
+    "openingTime": "10:00",
+    "closingTime": "21:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-15",
+    "openingTime": "09:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-16",
+    "openingTime": "08:00",
+    "closingTime": "09:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-16",
+    "openingTime": "09:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-17",
+    "openingTime": "09:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-18",
+    "openingTime": "08:00",
+    "closingTime": "23:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-19",
+    "openingTime": "09:00",
+    "closingTime": "10:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-19",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-20",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-21",
+    "openingTime": "09:00",
+    "closingTime": "10:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-21",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-22",
+    "openingTime": "09:00",
+    "closingTime": "23:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-23",
+    "openingTime": "07:00",
+    "closingTime": "08:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-23",
+    "openingTime": "08:00",
+    "closingTime": "23:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-24",
+    "openingTime": "09:00",
+    "closingTime": "23:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-25",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-26",
+    "openingTime": "09:00",
+    "closingTime": "10:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-26",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-27",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-28",
+    "openingTime": "09:00",
+    "closingTime": "10:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-28",
+    "openingTime": "10:00",
+    "closingTime": "21:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-29",
+    "openingTime": "09:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-30",
+    "openingTime": "07:00",
+    "closingTime": "08:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-30",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-31",
+    "openingTime": "09:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-01",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-02",
+    "openingTime": "09:00",
+    "closingTime": "10:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-02-02",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-03",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-04",
+    "openingTime": "09:00",
+    "closingTime": "10:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-02-04",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-05",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-06",
+    "openingTime": "07:00",
+    "closingTime": "08:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-02-06",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-07",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-08",
+    "openingTime": "09:00",
+    "closingTime": "21:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-09",
+    "openingTime": "09:00",
+    "closingTime": "10:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-02-09",
+    "openingTime": "10:00",
+    "closingTime": "21:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-10",
+    "openingTime": "10:00",
+    "closingTime": "21:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-11",
+    "openingTime": "08:00",
+    "closingTime": "09:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-02-11",
+    "openingTime": "09:00",
+    "closingTime": "21:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-12",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-13",
+    "openingTime": "07:00",
+    "closingTime": "08:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-02-13",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-14",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-15",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-16",
+    "openingTime": "08:00",
+    "closingTime": "09:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-02-16",
+    "openingTime": "09:00",
+    "closingTime": "22:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-17",
+    "openingTime": "09:00",
+    "closingTime": "22:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-18",
+    "openingTime": "08:00",
+    "closingTime": "09:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-02-18",
+    "openingTime": "09:00",
+    "closingTime": "22:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-19",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-20",
+    "openingTime": "07:00",
+    "closingTime": "08:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-02-20",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  }
+]
+
+
+DISNEYLAND WAIT TIMES
+
 [
   {
     "id": "353291",
@@ -21,7 +423,7 @@
   {
     "id": "353293",
     "name": "Autopia",
-    "waitTime": 10,
+    "waitTime": 15,
     "active": true,
     "fastPass": false
   },
@@ -42,7 +444,7 @@
   {
     "id": "353301",
     "name": "Buzz Lightyear Astro Blasters ",
-    "waitTime": 5,
+    "waitTime": 10,
     "active": true,
     "fastPass": true
   },
@@ -437,397 +839,5 @@
     "waitTime": 0,
     "active": false,
     "fastPass": false
-  }
-]
-[
-  {
-    "date": "2016-01-07",
-    "openingTime": "08:00",
-    "closingTime": "09:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-01-07",
-    "openingTime": "09:00",
-    "closingTime": "23:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-08",
-    "openingTime": "08:00",
-    "closingTime": "00:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-09",
-    "openingTime": "07:00",
-    "closingTime": "08:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-01-09",
-    "openingTime": "08:00",
-    "closingTime": "00:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-10",
-    "openingTime": "09:00",
-    "closingTime": "23:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-11",
-    "openingTime": "10:00",
-    "closingTime": "21:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-12",
-    "openingTime": "09:00",
-    "closingTime": "10:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-01-12",
-    "openingTime": "10:00",
-    "closingTime": "21:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-13",
-    "openingTime": "10:00",
-    "closingTime": "21:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-14",
-    "openingTime": "09:00",
-    "closingTime": "10:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-01-14",
-    "openingTime": "10:00",
-    "closingTime": "21:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-15",
-    "openingTime": "09:00",
-    "closingTime": "00:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-16",
-    "openingTime": "08:00",
-    "closingTime": "09:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-01-16",
-    "openingTime": "09:00",
-    "closingTime": "00:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-17",
-    "openingTime": "09:00",
-    "closingTime": "00:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-18",
-    "openingTime": "08:00",
-    "closingTime": "23:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-19",
-    "openingTime": "09:00",
-    "closingTime": "10:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-01-19",
-    "openingTime": "10:00",
-    "closingTime": "20:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-20",
-    "openingTime": "10:00",
-    "closingTime": "20:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-21",
-    "openingTime": "09:00",
-    "closingTime": "10:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-01-21",
-    "openingTime": "10:00",
-    "closingTime": "20:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-22",
-    "openingTime": "09:00",
-    "closingTime": "23:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-23",
-    "openingTime": "07:00",
-    "closingTime": "08:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-01-23",
-    "openingTime": "08:00",
-    "closingTime": "23:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-24",
-    "openingTime": "09:00",
-    "closingTime": "23:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-25",
-    "openingTime": "10:00",
-    "closingTime": "20:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-26",
-    "openingTime": "09:00",
-    "closingTime": "10:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-01-26",
-    "openingTime": "10:00",
-    "closingTime": "20:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-27",
-    "openingTime": "10:00",
-    "closingTime": "20:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-28",
-    "openingTime": "09:00",
-    "closingTime": "10:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-01-28",
-    "openingTime": "10:00",
-    "closingTime": "21:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-29",
-    "openingTime": "09:00",
-    "closingTime": "00:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-30",
-    "openingTime": "07:00",
-    "closingTime": "08:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-01-30",
-    "openingTime": "08:00",
-    "closingTime": "00:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-01-31",
-    "openingTime": "09:00",
-    "closingTime": "00:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-01",
-    "openingTime": "10:00",
-    "closingTime": "20:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-02",
-    "openingTime": "09:00",
-    "closingTime": "10:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-02-02",
-    "openingTime": "10:00",
-    "closingTime": "20:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-03",
-    "openingTime": "10:00",
-    "closingTime": "20:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-04",
-    "openingTime": "09:00",
-    "closingTime": "10:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-02-04",
-    "openingTime": "10:00",
-    "closingTime": "20:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-05",
-    "openingTime": "08:00",
-    "closingTime": "00:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-06",
-    "openingTime": "07:00",
-    "closingTime": "08:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-02-06",
-    "openingTime": "08:00",
-    "closingTime": "00:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-07",
-    "openingTime": "08:00",
-    "closingTime": "00:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-08",
-    "openingTime": "09:00",
-    "closingTime": "21:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-09",
-    "openingTime": "09:00",
-    "closingTime": "10:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-02-09",
-    "openingTime": "10:00",
-    "closingTime": "21:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-10",
-    "openingTime": "10:00",
-    "closingTime": "21:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-11",
-    "openingTime": "08:00",
-    "closingTime": "09:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-02-11",
-    "openingTime": "09:00",
-    "closingTime": "21:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-12",
-    "openingTime": "08:00",
-    "closingTime": "00:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-13",
-    "openingTime": "07:00",
-    "closingTime": "08:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-02-13",
-    "openingTime": "08:00",
-    "closingTime": "00:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-14",
-    "openingTime": "08:00",
-    "closingTime": "00:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-15",
-    "openingTime": "08:00",
-    "closingTime": "00:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-16",
-    "openingTime": "08:00",
-    "closingTime": "09:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-02-16",
-    "openingTime": "09:00",
-    "closingTime": "22:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-17",
-    "openingTime": "09:00",
-    "closingTime": "22:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-18",
-    "openingTime": "08:00",
-    "closingTime": "09:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-02-18",
-    "openingTime": "09:00",
-    "closingTime": "22:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-19",
-    "openingTime": "08:00",
-    "closingTime": "00:00",
-    "type": "Operating"
-  },
-  {
-    "date": "2016-02-20",
-    "openingTime": "07:00",
-    "closingTime": "08:00",
-    "type": "Extra Magic Hour and Magic Morning"
-  },
-  {
-    "date": "2016-02-20",
-    "openingTime": "08:00",
-    "closingTime": "00:00",
-    "type": "Operating"
   }
 ]
