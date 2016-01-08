@@ -1,0 +1,833 @@
+* DisneyAPI.Epcot.[ GetWaitTimes() | GetSchedule() ]
+* DisneyAPI.MagicKingdom.[ GetWaitTimes() | GetSchedule() ]
+* DisneyAPI.HollywoodStudios.[ GetWaitTimes() | GetSchedule() ]
+* DisneyAPI.AnimalKingdom.[ GetWaitTimes() | GetSchedule() ]
+* DisneyAPI.Disneyland.[ GetWaitTimes() | GetSchedule() ]
+* DisneyAPI.CaliforniaAdventure.[ GetWaitTimes() | GetSchedule() ]
+* DisneyAPI.DisneylandParis.[ GetWaitTimes() | GetSchedule() ]
+* DisneyAPI.WaltDisneyStudios.[ GetWaitTimes() | GetSchedule() ]
+* DisneyAPI.TokyoDisneyland.[ GetWaitTimes() | GetSchedule() ]
+* DisneyAPI.TokyoDisneySea.[ GetWaitTimes() | GetSchedule() ]
+* DisneyAPI.UniversalStudiosOrlando.[ GetWaitTimes() | GetSchedule() ]
+* DisneyAPI.UniversalIslandOfAdventure.[ GetWaitTimes() | GetSchedule() ]
+[
+  {
+    "id": "353291",
+    "name": "Astro Orbitor",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353293",
+    "name": "Autopia",
+    "waitTime": 10,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353295",
+    "name": "Big Thunder Mountain Railroad",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": true
+  },
+  {
+    "id": "353297",
+    "name": "Big Thunder Ranch",
+    "waitTime": 0,
+    "active": false,
+    "fastPass": false
+  },
+  {
+    "id": "353301",
+    "name": "Buzz Lightyear Astro Blasters ",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": true
+  },
+  {
+    "id": "353305",
+    "name": "Casey Jr. Circus Train",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353309",
+    "name": "Chip 'n Dale Treehouse",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353311",
+    "name": "Davy Crockett's Explorer Canoes",
+    "waitTime": 0,
+    "active": false,
+    "fastPass": false
+  },
+  {
+    "id": "353313",
+    "name": "Disneyland Monorail",
+    "waitTime": 15,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353315",
+    "name": "Disneyland Railroad",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353321",
+    "name": "Donald's Boat",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353323",
+    "name": "Dumbo the Flying Elephant",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353325",
+    "name": "Enchanted Tiki Room",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353327",
+    "name": "Finding Nemo Submarine Voyage",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353329",
+    "name": "Fire Engine, presented by National Car Rental",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353335",
+    "name": "Frontierland Shootin' Exposition",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353337",
+    "name": "Gadget's Go Coaster",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353343",
+    "name": "Goofy's Playhouse",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353347",
+    "name": "Haunted Mansion Holiday",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": true
+  },
+  {
+    "id": "353351",
+    "name": "Horse-Drawn Streetcars, presented by National Car Rental",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353353",
+    "name": "Horseless Carriage, presented by National Car Rental",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353355",
+    "name": "Indiana Jones Adventure ",
+    "waitTime": 25,
+    "active": true,
+    "fastPass": true
+  },
+  {
+    "id": "353363",
+    "name": "Jingle Cruise",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353365",
+    "name": "King Arthur Carrousel",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353369",
+    "name": "Mad Tea Party ",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353371",
+    "name": "Main Street Cinema",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353375",
+    "name": "Mark Twain Riverboat",
+    "waitTime": 10,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353377",
+    "name": "Matterhorn Bobsleds",
+    "waitTime": 15,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353381",
+    "name": "Mickey's House and Meet Mickey",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353383",
+    "name": "Minnie's House",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353389",
+    "name": "Mr. Toad's Wild Ride ",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353395",
+    "name": "Omnibus, presented by National Car Rental",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353399",
+    "name": "Peter Pan's Flight ",
+    "waitTime": 40,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353401",
+    "name": "Pinocchio's Daring Journey",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353403",
+    "name": "Pirate's Lair on Tom Sawyer Island",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353405",
+    "name": "Pirates of the Caribbean ",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353421",
+    "name": "Roger Rabbit's Car Toon Spin",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": true
+  },
+  {
+    "id": "353425",
+    "name": "Sailing Ship Columbia",
+    "waitTime": 0,
+    "active": false,
+    "fastPass": false
+  },
+  {
+    "id": "353427",
+    "name": "Sleeping Beauty Castle Walkthrough",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353429",
+    "name": "Snow White's Scary Adventures",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353435",
+    "name": "Hyperspace Mountain",
+    "waitTime": 45,
+    "active": true,
+    "fastPass": true
+  },
+  {
+    "id": "353437",
+    "name": "Splash Mountain",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": true
+  },
+  {
+    "id": "353439",
+    "name": "Star Tours - The Adventures Continue",
+    "waitTime": 35,
+    "active": true,
+    "fastPass": true
+  },
+  {
+    "id": "353443",
+    "name": "Storybook Land Canal Boats",
+    "waitTime": 10,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353445",
+    "name": "Tarzan's Treehouse",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353449",
+    "name": "The Many Adventures of Winnie the Pooh",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "353461",
+    "name": "The Disneyland Story presenting Great Moments with Mr. Lincoln",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "367492",
+    "name": "\"it's a small world\" Holiday",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "367495",
+    "name": "Alice in Wonderland",
+    "waitTime": 5,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "393385",
+    "name": "Main Street Vehicles",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "3433651",
+    "name": "Pixie Hollow",
+    "waitTime": 0,
+    "active": false,
+    "fastPass": false
+  },
+  {
+    "id": "16204726",
+    "name": "Fantasmic!",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "17734741",
+    "name": "The Disney Gallery",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "17945184",
+    "name": "Diamond Celebration Décor",
+    "waitTime": 0,
+    "active": false,
+    "fastPass": false
+  },
+  {
+    "id": "18237168",
+    "name": "Jungle Cruise",
+    "waitTime": 0,
+    "active": false,
+    "fastPass": false
+  },
+  {
+    "id": "18237232",
+    "name": "\"it's a small world\"",
+    "waitTime": 0,
+    "active": false,
+    "fastPass": false
+  },
+  {
+    "id": "18237343",
+    "name": "Star Wars Launch Bay",
+    "waitTime": 0,
+    "active": false,
+    "fastPass": false
+  },
+  {
+    "id": "18237344",
+    "name": "Super Hero HQ",
+    "waitTime": 0,
+    "active": false,
+    "fastPass": false
+  },
+  {
+    "id": "18237368",
+    "name": "Space Mountain",
+    "waitTime": 0,
+    "active": false,
+    "fastPass": false
+  },
+  {
+    "id": "18243993",
+    "name": "Star Wars: Path of the Jedi",
+    "waitTime": 0,
+    "active": true,
+    "fastPass": false
+  },
+  {
+    "id": "18249927",
+    "name": "Haunted Mansion",
+    "waitTime": 0,
+    "active": false,
+    "fastPass": false
+  }
+]
+[
+  {
+    "date": "2016-01-07",
+    "openingTime": "08:00",
+    "closingTime": "09:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-07",
+    "openingTime": "09:00",
+    "closingTime": "23:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-08",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-09",
+    "openingTime": "07:00",
+    "closingTime": "08:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-09",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-10",
+    "openingTime": "09:00",
+    "closingTime": "23:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-11",
+    "openingTime": "10:00",
+    "closingTime": "21:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-12",
+    "openingTime": "09:00",
+    "closingTime": "10:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-12",
+    "openingTime": "10:00",
+    "closingTime": "21:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-13",
+    "openingTime": "10:00",
+    "closingTime": "21:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-14",
+    "openingTime": "09:00",
+    "closingTime": "10:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-14",
+    "openingTime": "10:00",
+    "closingTime": "21:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-15",
+    "openingTime": "09:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-16",
+    "openingTime": "08:00",
+    "closingTime": "09:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-16",
+    "openingTime": "09:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-17",
+    "openingTime": "09:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-18",
+    "openingTime": "08:00",
+    "closingTime": "23:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-19",
+    "openingTime": "09:00",
+    "closingTime": "10:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-19",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-20",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-21",
+    "openingTime": "09:00",
+    "closingTime": "10:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-21",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-22",
+    "openingTime": "09:00",
+    "closingTime": "23:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-23",
+    "openingTime": "07:00",
+    "closingTime": "08:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-23",
+    "openingTime": "08:00",
+    "closingTime": "23:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-24",
+    "openingTime": "09:00",
+    "closingTime": "23:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-25",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-26",
+    "openingTime": "09:00",
+    "closingTime": "10:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-26",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-27",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-28",
+    "openingTime": "09:00",
+    "closingTime": "10:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-28",
+    "openingTime": "10:00",
+    "closingTime": "21:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-29",
+    "openingTime": "09:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-30",
+    "openingTime": "07:00",
+    "closingTime": "08:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-01-30",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-01-31",
+    "openingTime": "09:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-01",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-02",
+    "openingTime": "09:00",
+    "closingTime": "10:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-02-02",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-03",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-04",
+    "openingTime": "09:00",
+    "closingTime": "10:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-02-04",
+    "openingTime": "10:00",
+    "closingTime": "20:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-05",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-06",
+    "openingTime": "07:00",
+    "closingTime": "08:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-02-06",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-07",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-08",
+    "openingTime": "09:00",
+    "closingTime": "21:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-09",
+    "openingTime": "09:00",
+    "closingTime": "10:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-02-09",
+    "openingTime": "10:00",
+    "closingTime": "21:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-10",
+    "openingTime": "10:00",
+    "closingTime": "21:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-11",
+    "openingTime": "08:00",
+    "closingTime": "09:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-02-11",
+    "openingTime": "09:00",
+    "closingTime": "21:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-12",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-13",
+    "openingTime": "07:00",
+    "closingTime": "08:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-02-13",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-14",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-15",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-16",
+    "openingTime": "08:00",
+    "closingTime": "09:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-02-16",
+    "openingTime": "09:00",
+    "closingTime": "22:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-17",
+    "openingTime": "09:00",
+    "closingTime": "22:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-18",
+    "openingTime": "08:00",
+    "closingTime": "09:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-02-18",
+    "openingTime": "09:00",
+    "closingTime": "22:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-19",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  },
+  {
+    "date": "2016-02-20",
+    "openingTime": "07:00",
+    "closingTime": "08:00",
+    "type": "Extra Magic Hour and Magic Morning"
+  },
+  {
+    "date": "2016-02-20",
+    "openingTime": "08:00",
+    "closingTime": "00:00",
+    "type": "Operating"
+  }
+]
